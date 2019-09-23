@@ -20,6 +20,7 @@ public class Point {
         result = Math.pow(point.x -x,2) + Math.pow(point.y - y,2);
         result = Math.sqrt(result);
         return result;
+
     }
 
 

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/apidemo/apidemo.iml" filepath="$PROJECT_DIR$/apidemo/apidemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectiondemo/collectiondemo.iml" filepath="$PROJECT_DIR$/collectiondemo/collectiondemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extendsdemo/extendsdemo.iml" filepath="$PROJECT_DIR$/extendsdemo/extendsdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iodemo/iodemo.iml" filepath="$PROJECT_DIR$/iodemo/iodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianxi/lianxi.iml" filepath="$PROJECT_DIR$/lianxi/lianxi.iml" />
       <module fileurl="file://$PROJECT_DIR$/oopdemo/oopdemo.iml" filepath="$PROJECT_DIR$/oopdemo/oopdemo.iml" />
     </modules>
   </component>
